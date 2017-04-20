@@ -4,14 +4,16 @@
     <description>Mobile application for GCconnex &amp; GCcollab</description>
     <author email="mark.wooff@tbs-sct.gc.ca" href="http://tbs-sct.gc.ca">GCTools Team</author>
     <content src="http://gctools.ca/gctoolkit" />
-    <access origin="*" />
+
+    <preference name="DisallowOverscroll" value="true" />
+    
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <icon src="icon.png" />
+
     <platform name="android">
         <preference name="android-minSdkVersion" value="14" />
         <allow-intent href="market:*" />
@@ -53,7 +55,12 @@
         <splash src="res/screens/ios/screen-ipad-portrait.png" width="768" height="1024" />
         <splash src="res/screens/ios/screen-ipad-portrait-2x.png" width="1536" height="2048" />
     </platform>
-    <preference name="DisallowOverscroll" value="true" />
+
+    <icon src="icon.png" />
+    <splash src="splash.png" />
+
+    <access origin="*" />
+
     <plugin name="cordova-plugin-whitelist" spec="~1.2.0" />
     <plugin name="cordova-plugin-console" spec="~1.0.1" />
     <plugin name="cordova-plugin-statusbar" spec="~1.0.1" />
