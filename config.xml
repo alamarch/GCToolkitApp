@@ -3,7 +3,7 @@
     <name>GCToolkit</name>
     <description>Mobile application for GCconnex &amp; GCcollab</description>
     <author email="mark.wooff@tbs-sct.gc.ca" href="http://tbs-sct.gc.ca">GCTools Team</author>
-    <content src="http://gctools.ca/gctoolkit" />
+    <content src="https://gctools.ca/gctoolkit/index.html" />
 
     <preference name="DisallowOverscroll" value="true" />
     
