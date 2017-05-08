@@ -6,6 +6,9 @@
     <content src="https://gctools.ca/gctoolkit/index.html" />
 
     <preference name="DisallowOverscroll" value="true" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarStyle" value="lightcontent" />
+    <preference name="StatusBarBackgroundColor" value="#335075" />
     
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
