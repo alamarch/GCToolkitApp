@@ -73,6 +73,7 @@
     <allow-navigation href="*://*.gctools.ca/*" />
     <allow-navigation href="*://gccollab.ca/*" />
     <allow-navigation href="*://*.gccollab.ca/*" />
+    <allow-navigation href="*://api.geds.gc.ca/" />
     <allow-navigation href="*://api.geds.gc.ca/*" />
 
     <plugin name="cordova-plugin-whitelist" spec="~1.2.0" />
