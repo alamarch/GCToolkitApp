@@ -71,6 +71,8 @@
     <!-- Allow linking to gctools.ca -->
     <allow-navigation href="*://gctools.ca/*" />
     <allow-navigation href="*://*.gctools.ca/*" />
+    <allow-navigation href="*://gccollab.ca/*" />
+    <allow-navigation href="*://*.gccollab.ca/*" />
 
     <plugin name="cordova-plugin-whitelist" spec="~1.2.0" />
     <plugin name="cordova-plugin-console" spec="~1.0.1" />
