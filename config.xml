@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="ca.tbs-sct.gctoolkit" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="ca.gc.hcsc.gctoolkit" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>GCToolkit</name>
     <description>Mobile application for GCconnex &amp; GCcollab</description>
     <author email="mark.wooff@tbs-sct.gc.ca" href="http://tbs-sct.gc.ca">GCTools Team</author>
